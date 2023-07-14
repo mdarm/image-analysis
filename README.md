@@ -1,7 +1,5 @@
 # Image Analysis Techniques with Python
 
-This project serves as a comprehensive introduction t
-
 This repository contains a wide range of image analysis techniques. Whether you are interested in computer vision, machine learning, or artificial intelligence, understanding these fundamental techniques is invaluable.
 
 The exercises cover a wide range of topics in image analysis, from smoothing and segmentation to color spaces and morphological operations. The goal is to illustrate the use of several fundamental image processing techniques and how they can be implemented using Python libraries like NumPy, Matplotlib, and Scikit-Image. The project also touches upon feature extraction methods, a crucial aspect of machine learning and artificial intelligence.
